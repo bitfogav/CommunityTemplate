@@ -1,4 +1,4 @@
-#include "MyCustomClass.h"
+#include "FrontPanel_Mega_Bitfogav.h"
 #include "allocateMem.h"
 #include "commandmessenger.h"
 
